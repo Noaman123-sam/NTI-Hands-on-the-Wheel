@@ -31,4 +31,3 @@ The model can be used with:
 - OpenCV
 - Ultralytics YOLO
 - Roboflow
-ده كدة
